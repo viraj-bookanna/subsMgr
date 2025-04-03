@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# session files
+*.session
+*.session-journal
+
+# db and other files
+*.db
+join.txt
